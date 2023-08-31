@@ -32,8 +32,8 @@ from telethon.tl.functions.channels import JoinChannelRequest
 from pyromod.listen.listen import ListenerTimeout
 
 from config import SUPPORT_CHAT
-from StringGen import Anony
-from StringGen.utils import retry_key
+from EsproString import Anony
+from EsproString.utils import retry_key
 
 
 async def gen_session(

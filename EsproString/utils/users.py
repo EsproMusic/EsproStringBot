@@ -1,4 +1,4 @@
-from StringGen import db
+from EsproString import db
 
 usersdb = db.users
 

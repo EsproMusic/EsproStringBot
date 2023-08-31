@@ -1,9 +1,9 @@
 from pyrogram import filters
 from pyrogram.types import CallbackQuery
 
-from StringGen import Anony
-from StringGen.utils import gen_key
-from StringGen.modules.gen import gen_session
+from EsproString import Anony
+from EsproString.utils import gen_key
+from EsproString.modules.gen import gen_session
 
 
 @Anony.on_callback_query(
